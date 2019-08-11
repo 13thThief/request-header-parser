@@ -6,7 +6,7 @@ and system infos (from header `User-Agent`) from a client device.
 
 ### Example Usage:
 
-[/api/whoami](/api/whoami)
+[/api/whoami](https://sweet-geology.glitch.me/api/whoami)
 
 ### Example Output:
 
