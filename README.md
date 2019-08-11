@@ -6,7 +6,7 @@ and system infos (from header `User-Agent`) from a client device.
 
 ### Example Usage:
 
-[/api/whoami](http://localhost:3000/api/whoami)
+[/api/whoami](/api/whoami)
 
 ### Example Output:
 
